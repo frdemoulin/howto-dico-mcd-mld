@@ -107,14 +107,14 @@ Finish
 
 1. Dans PMA, on crée un nouveau compte d'utilisateurs en allant dans l'onglet Compte d'utilisateurs
 
-1. Cliquer sur Ajouter un compte d'utilisateur
+2. Cliquer sur Ajouter un compte d'utilisateur
 
-```
-nom d'utilisateur : okanban
-LOCAL
-password : okanban
-```
+  ```
+  nom d'utilisateur : okanban
+  LOCAL
+  password : okanban
+  ```
 
-1. Cliquer sur Créer une base portant son nom et donner à cet utilisateur tous les privilèges sur cette base.
+3. Cliquer sur Créer une base portant son nom et donner à cet utilisateur tous les privilèges sur cette base.
 
-1. Ajouter (exécuter)
+4. Ajouter (exécuter)
