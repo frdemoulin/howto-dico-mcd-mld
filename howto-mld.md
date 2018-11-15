@@ -27,7 +27,7 @@
 
   * Onglet Table : utf_8_general_ci /  InnoDB
 
-  * Ajout des columns (champ), losange bleu à c$oté du champ dans la représentation de la table si champ non null (losange blanc sinon)
+  * Ajout des columns (champ) : losange bleu à coté du champ dans la représentation de la table si champ non null (losange blanc sinon)
 
   Ne pas mettre les () pour TIMESTAMP ni pour TINYINT dans le Datatype
 
